@@ -45,6 +45,9 @@ This project builds an NLP-based query system utilizing a Retrieval-Augmented Ge
 #### LangChain Chains: 
 * Framework for creating QA systems, particularly focused on retrieval-augmented generation.
 
+### Summary of the Project:
+* This project utilizes a Retrieval-Augmented Generation (RAG) approach to process a PDF document containing Python’s built-in functions. The system follows a pipeline where the document is first fetched, split, and embedded into vectors. The RAG model retrieves relevant sections of the document based on the user's query, then generates an appropriate answer based on the retrieved context. The use of RAG enables the system to answer complex questions and provide summaries by combining information retrieval and generation in a seamless manner. The system is efficient and scalable, allowing users to query specific sections of a document and obtain detailed, contextually rich responses.
+
 
 
 
