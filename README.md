@@ -27,7 +27,7 @@ This project builds an NLP-based query system utilizing a Retrieval-Augmented Ge
 * Implement the RetrievalQA chain to allow users to ask questions about Python’s built-in functions. The system retrieves relevant information from the vector database and uses the generative model to produce coherent and context-aware answers.
 
 #### 8.Answer Generation & Output:
-*Return the generated answers along with the sources used to generate those answers, providing transparency about where the information came from.
+* Return the generated answers along with the sources used to generate those answers, providing transparency about where the information came from.
 
 
 
